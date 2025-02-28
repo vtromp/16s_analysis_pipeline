@@ -1,1 +1,1 @@
-# 16s_analysis_pipeline
+# 16S analysis pipeline
