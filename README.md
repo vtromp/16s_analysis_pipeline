@@ -1,6 +1,6 @@
 # 16s analysis pipeline
 
-This pilot analysis pipeline has been constructed to streamline the analysis of sequencing output following a 16S sequencing run from Macrogen. The pipeline integrates multiple tools to ensure efficient and comprehensive processing and can be executed using the `16s_pipeline.sh` script.  
+This pilot analysis pipeline has been constructed to streamline the analysis of sequencing output following a 16s sequencing run from Macrogen. The pipeline integrates multiple tools to ensure efficient and comprehensive processing and can be executed using the `16s_pipeline.sh` script.  
 
 First, the tool **Tracy** is used to perform basecalling and convert trace files (`.ab1` files) into FASTQ files. Next, **FastQC** is employed to assess the quality of the generated FASTQ files. Following this, **Trimmomatic** is used for trimming, with a default sliding window size of 50, a quality threshold of 18 (where terminal nucleotides are removed if the average quality of the window falls below 18), and a minimum sequence length set to 60.  
 
