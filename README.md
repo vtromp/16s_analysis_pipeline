@@ -1,4 +1,4 @@
-# 16S analysis pipeline
+# 16s analysis pipeline
 
 This pilot analysis pipeline has been constructed to streamline the analysis of sequencing output following a 16S sequencing run from Macrogen. The pipeline integrates multiple tools to ensure efficient and comprehensive processing and can be executed using the `16s_pipeline.sh` script.  
 
