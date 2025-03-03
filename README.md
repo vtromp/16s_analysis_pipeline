@@ -42,4 +42,4 @@ mamba install -c conda-forge curl openssl unzip
 wget -P scripts/ https://raw.githubusercontent.com/vtromp/16s_analysis_pipeline/refs/heads/main/scripts/build_16s_database.sh
 wget -P scripts/ https://raw.githubusercontent.com/vtromp/16s_analysis_pipeline/refs/heads/main/scripts/16s_pipeline.sh
 ```
-![Usage example:]([https://github.com/vtromp/16s_analysis_pipeline/blob/475589eb70d223b84f082b06bc512b9efad47137/imgs/usage%20example.png](https://github.com/vtromp/16s_analysis_pipeline/blob/45fa5ab8499a7f674a808fd5062ca8d319ba08a5/imgs/usage%20example.png)) 
+![Usage example:](https://raw.githubusercontent.com/vtromp/16s_analysis_pipeline/refs/heads/main/imgs/usage%20example.png) 
