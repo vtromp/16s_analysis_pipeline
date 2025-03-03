@@ -3,7 +3,7 @@ echo ""
 # Define input directory and parameters for analysis
 slidingwindow_size=50
 slidingwindow_treshold=18
-min_sequence_length=1000
+min_sequence_length=750
 
 # Function to display help information
 function usage() {
